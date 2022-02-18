@@ -6,31 +6,25 @@ package OOP_WORDLE;
 import javax.swing.UIDefaults.ProxyLazyValue;
 
 public class App {
-<<<<<<< HEAD
-	
 	
 	static void ciao() {
 		System.out.println("Ciao");
 	}
-=======
     
     static void prova() {
         System.out.println("prova git");
     }
->>>>>>> 48daadf7c9ee1294f274e39e79355a130a20b132
 
     public static void main(String[] args) {
     	System.out.println("Hello World!");
     	System.out.println("Hello World!");
-<<<<<<< HEAD
     	ciao();
-=======
+
     	doNothing("Ciao");
     }
     
     private static void doNothing(String arg) {
     	System.out.println("Ciao" + " " + arg);
     	prova();
->>>>>>> 48daadf7c9ee1294f274e39e79355a130a20b132
     }
 }
