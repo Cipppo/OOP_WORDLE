@@ -4,9 +4,15 @@
 package OOP_WORDLE;
 
 public class App {
+	
+	
+	static void ciao() {
+		System.out.println("Ciao");
+	}
 
     public static void main(String[] args) {
     	System.out.println("Hello World!");
     	System.out.println("Hello World!");
+    	ciao();
     }
 }
