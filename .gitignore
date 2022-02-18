@@ -31,7 +31,7 @@ build
 
 bin/
 
-.project
-.metadata
-.classpath
+.project/
+.metadata/
+.classpath/
 
