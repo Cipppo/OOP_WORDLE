@@ -8,5 +8,10 @@ public class App {
     public static void main(String[] args) {
     	System.out.println("Hello World!");
     	System.out.println("Hello World!");
+    	doNothing("Ciao");
+    }
+    
+    private static void doNothing(String arg) {
+    	System.out.println("Ciao" + " " + arg);
     }
 }
