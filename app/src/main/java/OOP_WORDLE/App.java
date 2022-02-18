@@ -3,10 +3,17 @@
  */
 package OOP_WORDLE;
 
+import javax.swing.UIDefaults.ProxyLazyValue;
+
 public class App {
+    
+    static void prova() {
+        System.out.println("prova git");
+    }
 
     public static void main(String[] args) {
     	System.out.println("Hello World!");
     	System.out.println("Hello World!");
+    	prova();
     }
 }
