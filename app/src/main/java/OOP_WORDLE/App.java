@@ -3,8 +3,6 @@
  */
 package OOP_WORDLE;
 
-import javax.swing.UIDefaults.ProxyLazyValue;
-
 public class App {
 	
 	static void ciao() {
